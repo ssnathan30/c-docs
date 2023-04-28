@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #ab88bc;
+    min-height: 100vh;
+  }
+  
+  .wrapper {
+    font-family: sans-serif;
+  }
+  
+  .ql-editor {
+    min-height: calc(100vh - 100px);
+    background-color: rgb(244, 237, 243);
+  }

@@ -1,0 +1,9 @@
+.wrapper {
+    background-color: #50077e;
+    padding: 20px;
+    color: white;
+  }
+  
+  .title {
+    cursor: pointer;
+  }
